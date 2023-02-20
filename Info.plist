@@ -5,19 +5,19 @@
 	<key>BuildMachineOSBuild</key>
 	<string>19A603013</string>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>en_US</string>
+	<string>en</string>
 	<key>CFBundleExecutable</key>
-	<string>CoreFoundation</string>
+	<string>CoreUtils</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.CoreFoundation</string>
+	<string>com.apple.CoreUtils</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>CoreFoundation</string>
+	<string>CoreUtils</string>
 	<key>CFBundlePackageType</key>
 	<string>FMWK</string>
 	<key>CFBundleShortVersionString</key>
-	<string>6.9</string>
+	<string>6.5</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,7 +25,7 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1774.101</string>
+	<string>650.6</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
